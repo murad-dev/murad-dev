@@ -1,13 +1,9 @@
 ## Hi 👋, I'm Md Murad Hosen
 
 
-**murad-dev/murad-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>A passionate frontend developer from Bangladesh.</strong> <br>
 
-A passionate frontend developer from Bangladesh.
-
-🔭 I’m currently working on ...
-🌱 I’m currently learning JavaScript, React, Next.Js.
-👨‍💻 All of my projects are available at [https://moktubat-portfolio.netlify.app/](https://murad-dev.netlify.app/)
-💬 Ask me about MERN-Stack Development
-📫 How to reach me muradhasan443@gmail.com
-
+ 🌱 I’m currently learning <strong>JavaScript, React, Next.Js</strong> <br>
+ 👨‍💻 All of my projects are available at [https://murad-dev.netlify.app/](https://murad-dev.netlify.app/) <br>
+ 💬 Ask me about <strong>MERN-Stack Development</strong> <br>
+ 📫 How to reach me muradhasan443@gmail.com 
