@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Md Murad Hosen
 
-<!--
+
 **murad-dev/murad-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A passionate frontend developer from Bangladesh.
@@ -11,4 +11,3 @@ A passionate frontend developer from Bangladesh.
 💬 Ask me about MERN-Stack Development
 📫 How to reach me muradhasan443@gmail.com
 
--->
